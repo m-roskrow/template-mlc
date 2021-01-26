@@ -4,7 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Currently in Development</h1>
+      <header className="App-header">
+        <p>
+          Money Lines Checker
+        </p>
+        <p>Currently in development</p>
+      </header>
     </div>
   );
 }
